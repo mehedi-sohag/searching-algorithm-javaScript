@@ -1,4 +1,10 @@
-# Searching Algorithm
+# Sorting Algorithm
 
-- Linear Search
-- Binary Search
+- `LinearSearch`
+- `BinarySearch`
+
+### Use
+
+```html
+<script defer src="./binarySearch.js"></script>
+```
